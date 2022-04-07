@@ -2,4 +2,4 @@
 ## Tutorial for incoming 15L students
 ### By Bhakin Phanakesiri 
 
-> **`Step 1: Install VS Code`**
+> **`Step 1: Install VS Codes`**
