@@ -29,6 +29,13 @@
 
 > **`Step 4: Moving Files with scp`**
 
+![pic4]
+
+```
+- Create a file one your computer and save it
+- Then go on your terminal and type scp (the file name) cs15lsp22zz@ieng6.ucsd.edu:~/ 
+- To check if the file has been copied to your cs15l account, type ls and see if the name of your file is listed there or not. 
+```
 
 
 
@@ -44,3 +51,12 @@ with your name and cs15l account on your personal server
 ```
 
 > **`Step 6: Optimizing Remote Running`**
+
+![pic6](optimizing.png)
+
+```
+- We can optimize remote running by writing more than one command in a line
+- For example, when we run: cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI . We would get all of the output from each of the command.  
+```
+
+# Thank You
