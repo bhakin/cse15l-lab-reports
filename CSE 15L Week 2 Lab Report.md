@@ -29,7 +29,7 @@
 
 > **`Step 4: Moving Files with scp`**
 
-![pic4]
+![pic4](movingFiles.png)
 
 ```
 - Create a file one your computer and save it
@@ -59,4 +59,4 @@ with your name and cs15l account on your personal server
 - For example, when we run: cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI . We would get all of the output from each of the command.  
 ```
 
-# Thank You
+# Thank You!
