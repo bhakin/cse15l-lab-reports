@@ -2,6 +2,7 @@
 ## Tutorial for incoming CSE 15L students
 ### By Bhakin Phanakesiri 
 
+---
 > **`Step 1: Install VS Code`**
 
 ![pic1](vscode.png)
@@ -10,6 +11,7 @@
 - Open up VS Code on your device
 ```
 
+---
 > **`Step 2: Connecting to the Server`**
 
 ![pic2](connectingToServer.png)
@@ -18,6 +20,7 @@
 - Then enter your password for your account
 ```
 
+---
 > **`Step 3: Trying Some Command`**
 
 ![pic3](commands.png)
@@ -27,6 +30,7 @@
 - Commands: cd, ls, pwd, mkdir, cp, ls -lat, ls -a
 ```
 
+---
 > **`Step 4: Moving Files with scp`**
 
 ![pic4](movingFiles.png)
@@ -37,8 +41,7 @@
 - To check if the file has been copied to your cs15l account, type ls and see if the name of your file is listed there or not. 
 ```
 
-
-
+---
 > **`Step 5: Setting an SSH Key`**
 
 ![pic5](SSHKey.png)
@@ -49,7 +52,7 @@
 with your name and cs15l account on your personal server
 - Lastly, enter your cs15l account's password
 ```
-
+---
 > **`Step 6: Optimizing Remote Running`**
 
 ![pic6](optimizing.png)
