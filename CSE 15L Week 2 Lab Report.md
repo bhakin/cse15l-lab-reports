@@ -21,7 +21,7 @@
 ```
 
 ---
-> **`Step 3: Trying Some Command`**
+> **`Step 3: Trying Some Commands`**
 
 ![pic3](commands.png)
 
