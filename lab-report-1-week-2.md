@@ -1,2 +1,2 @@
-# CSE 15L LAB 2
+# CSE 15L LAB 2 
 ![pic](screenshot.png)
