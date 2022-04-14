@@ -7,7 +7,7 @@
 
 ![pic1](vscode.png)
 ```
-- Download VS Code
+- Download VS Code //add links to vs code and password lookup 
 - Open up VS Code on your device
 ```
 
@@ -33,7 +33,7 @@
 ---
 > **`Step 4: Moving Files with scp`**
 
-![pic4](movingFiles.png)
+![pic4](movingFiles.png). //add more description or describing the pictures
 
 ```
 - Create a file one your computer and save it
