@@ -28,7 +28,7 @@
 
 
 - When you are connected to the server, run some commands to see what will happen.
-- Commands: `cd, ls, pwd, mkdir, cp, ls -lat, ls -a'
+- Commands: ```cd, ls, pwd, mkdir, cp, ls -lat, ls -a```
 
 
 ---
