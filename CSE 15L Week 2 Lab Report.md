@@ -19,6 +19,7 @@
 - Go to this [website](https://sdacs.ucsd.edu/~icc/index.php) to set up your password for your cs15l account. 
 - Then go on your terminal and type ssh (your cs15l account)
 - Then enter your password for your account
+- If you log in to your account sucessfully, your terminal should look like the picture above. 
 
 
 ---
@@ -28,7 +29,8 @@
 
 
 - When you are connected to the server, run some commands to see what will happen.
-- Commands: ```cd, ls, pwd, mkdir, cp, ls -lat, ls -a```
+- Some Commands that you could run: ```cd, ls, pwd, mkdir, cp, ls -lat, ls -a```
+- (some some commands example here)
 
 
 ---
@@ -51,7 +53,8 @@
 - Create a new key on you device by typing ssh-keygen on your personal server. 
 - Then type scp /Users/<user-name>/.ssh/id_rsa.pub cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys
 with your name and cs15l account on your personal server
-- Lastly, enter your cs15l account's password
+- Lastly, enter your cs15l account's password and if you did it correctly, your output would look like the picture above and you wouldn't need to enter your password to enter the server again. 
+
 
 ---
 > **`Step 6: Optimizing Remote Running`**
@@ -60,7 +63,7 @@ with your name and cs15l account on your personal server
 
 
 - We can optimize remote running by writing more than one command in a line
-- For example, when we run: cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI . We would get all of the output from each of the commands.  
+- For example from the picture above, when we run: cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI . We would get all of the output from each of the commands.  
 
 
 # Thank You!
