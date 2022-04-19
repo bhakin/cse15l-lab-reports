@@ -54,7 +54,7 @@
 - Create a new key on your computer by typing ```ssh-keygen``` on your terminal. 
 - Then type ```scp /Users/<user-name>/.ssh/id_rsa.pub cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys```
 with your name and cs15l account on your terminal.
-- Lastly, enter your cs15l account's password and if you did it correctly, your output would look like the picture above and you wouldn't need to enter your password to enter the server again. 
+- Lastly, enter your cs15l account's password and if you did it correctly, your output would look like the picture above and you wouldn't need to enter your password to log in to the server again. 
 
 
 ---
