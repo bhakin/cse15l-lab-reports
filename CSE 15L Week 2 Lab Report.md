@@ -7,7 +7,7 @@
 
 ![pic1](vscode.png)
 
-- Download [VS Code](https://code.visualstudio.com/download) here! 
+- Download VS Code [here](https://code.visualstudio.com/download)!
 - Open up VS Code on your device and it should look something like the picture above.
 
 
