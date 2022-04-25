@@ -42,7 +42,7 @@ Symptom:
 ![problem3](MarkdownParseProblem3.png)
 - The symptom here is that the code gives us the wrong output. As we can see in the picture above, this is not a link, it is a picture so therefore the correct answer should be an empty array. 
 - Similarly, the bug is the code's inability to differentiate a link and a picture. 
-- For this case, the failure-inducing input is the test_file6.md, but this symptom will come up when we try to implement a picture on markdown.
+- In this case, the failure-inducing input is the test_file6.md, but this symptom will come up when we try to implement a picture on markdown.
 
 ---
 
