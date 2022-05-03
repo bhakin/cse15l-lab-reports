@@ -13,7 +13,7 @@ Symptom:
 ![problem1](MardownParseProblem1.png)
 
 - The symptom for this case is the infinite loop since no codes should be producing an infinite loop.
-- The bug is here is the logic error since the the code was not able to stop looking for a link when there is an extra line on the file. 
+- The bug here is the logic error since the code was not able to stop looking for a link when there is an extra line on the file. 
 - In this case, the failure-inducing input is the test-file.md, but this symptom will appear on a file that has an extra line at the end. 
 
 ---
