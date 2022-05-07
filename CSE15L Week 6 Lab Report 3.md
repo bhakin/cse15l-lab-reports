@@ -41,10 +41,12 @@ Host ieng6
 scp -r . cse15lsp22apc@ieng6.ucsd.edu:~/markdown-parser
 ```
 - The picture above shows the result after I ran the command.
+
 ---
 ![pic8](RunningMarkdownOnieng6.png)
 - After copying the markdown-parser repo into my cs15l account, I logged into my cs15l account and complile and run MarkdownParseTest.java. 
 - The picture above shows the result after I rand MarkdownParseTest.java.
+
 ---
 ![pic9](RunningInOneLine.png)
 - Lastly, I tried to optimize time by running everything I just did in one line. 
