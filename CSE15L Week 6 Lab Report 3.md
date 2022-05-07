@@ -29,10 +29,13 @@ Host ieng6
 
 ![pic4](PublicKey.png)
 
+---
 ![pic5](PrivateKey.png)
 
+---
 ![pic6](Commit/PushOnieng6.png)
 
+---
 ![pic7](LinkToNewTest.png)
 [Link](https://github.com/bhakin/markdown-parser/commit/f7cc60a3337ccd24fd61927b713289fc7087936e) to the pictiure above.
 **______________________________________________________________________________________________________________**
