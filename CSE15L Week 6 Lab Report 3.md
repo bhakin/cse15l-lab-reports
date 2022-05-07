@@ -2,7 +2,7 @@
 ## Lab Report 3
 ### By: Bhakin Phanakesiri 
 
-**___________________________________________________**
+**_____________________________________________________________________________________________________________**
 > **Group Choice 1: Streamlining ssh Configuration**
 
 ![pic1](Configuration.png)
@@ -24,7 +24,7 @@ Host ieng6
 - As we can see in the picture above, I sucessfully copied MarkdownParse.java to my cs15l account. 
 
 
-**__________________________________________________________________________________________________________________________**
+**_____________________________________________________________________________________________________________**
 > **Group Choice 2: Setup Github Acess from ieng6**
 
 ![pic4](PublicKey.png)
@@ -32,7 +32,7 @@ Host ieng6
 
 
 
-**__________________________________________________________________________________________________________________________**
+**_____________________________________________________________________________________________________________**
 > **Group Choice 3: Copy whole directories with scp -r**
 
 ![pic7](CopyingWholeDirectory.png)
@@ -47,3 +47,9 @@ scp -r . cse15lsp22apc@ieng6.ucsd.edu:~/markdown-parser
 - The picture above shows the result after I rand MarkdownParseTest.java.
 
 ![pic9](RunningInOneLine.png)
+- Lastly, I tried to optimize time by running everything I just did in one line. 
+- The picture above shows me running everything I just did in one line. 
+    1. The first command is copying the markdown-parser into my cs15l account. 
+    2. The second command is logging into my cs15l account. 
+    3. The third command is compiling MarkdownParseTest.java.
+    4. The fourth command is running MarkdownParseTest.java.
