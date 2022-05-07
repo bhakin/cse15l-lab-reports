@@ -6,10 +6,11 @@
 > **Group Choice 1: Streamlining ssh Configuration**
 
 ![pic1](Configuration.png)
+- 
 
 ![pic2](LoggingInWithieng6.png)
 
-![pic3](do this)
+![pic3](SCPusingieng6.png)
 
 
 
