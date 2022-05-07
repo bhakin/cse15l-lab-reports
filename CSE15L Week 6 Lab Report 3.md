@@ -29,13 +29,16 @@ Host ieng6
 
 ![pic4](PublicKey.png)
 
+![pic5](PrivateKey.png)
 
+![pic6](Commit/PushOnieng6.png)
 
+![pic7](LinkToNewTest.png)
 
 **______________________________________________________________________________________________________________**
 > **Group Choice 3: Copy whole directories with scp -r**
 
-![pic7](CopyingWholeDirectory.png)
+![pic8](CopyingWholeDirectory.png)
 - I copied the markdown-parser repo by using this command: 
 ```
 scp -r . cse15lsp22apc@ieng6.ucsd.edu:~/markdown-parser
@@ -43,12 +46,12 @@ scp -r . cse15lsp22apc@ieng6.ucsd.edu:~/markdown-parser
 - The picture above shows the result after I ran the command.
 
 ---
-![pic8](RunningMarkdownOnieng6.png)
+![pic9](RunningMarkdownOnieng6.png)
 - After copying the markdown-parser repo into my cs15l account, I logged into my cs15l account and complile and run MarkdownParseTest.java. 
 - The picture above shows the result after I rand MarkdownParseTest.java.
 
 ---
-![pic9](RunningInOneLine.png)
+![pic10](RunningInOneLine.png)
 - Lastly, I tried to optimize time by running everything I just did in one line. 
 - The picture above shows me running everything I just did in one line. 
     1. The first command is copying the markdown-parser into my cs15l account. 
