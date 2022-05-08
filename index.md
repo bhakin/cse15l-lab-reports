@@ -8,8 +8,9 @@
 Hello, 
 
 **Lab Reports**
-1. LAB REPORT 1:https://bhakin.github.io/cse15l-lab-reports/CSE%2015L%20Week%202%20Lab%20Report.html
-2. LAB REPORT 2: https://bhakin.github.io/cse15l-lab-reports/CSE%2015L%20Week%204%20Lab%20Report%202.html
+1. [LAB REPORT 1](https://bhakin.github.io/cse15l-lab-reports/CSE%2015L%20Week%202%20Lab%20Report.)
+2. [LAB REPORT 2](https://bhakin.github.io/cse15l-lab-reports/CSE%2015L%20Week%204%20Lab%20Report%202.html)
+3. [LAB REPORT 3](https://bhakin.github.io/cse15l-lab-reports/CSE15L%20Week%206%20Lab%20Report%203.html#lab-report-3)
 
 
 **CSE 15L Spring 2022 Announcement**
