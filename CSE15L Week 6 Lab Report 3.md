@@ -15,13 +15,16 @@ Host ieng6
 ```
 ---
 ![pic2](LoggingInWithieng6.png)
-- After, I saved the config file, I opened the terminal typed ssh ieng6 and the result is the picture above.
+- After, I saved the config file, I opened the terminal and typed ssh ieng6 and the result is the picture above.
 - ieng6 is the username I chose to replace my cs15l account.
 
 ---
 ![pic3](SCPusingieng6.png)
 - Then, I copied MarkdownParse.java to the server using my new username. 
-- As we can see in the picture above, I sucessfully copied MarkdownParse.java to my cs15l account. 
+- This is the command I used to copied MarkdownParse.java to the server
+```
+scp MarkdownParse.java ieng6:~/
+```
 
 
 **______________________________________________________________________________________________________________**
@@ -63,7 +66,7 @@ scp -r . cse15lsp22apc@ieng6.ucsd.edu:~/markdown-parser
 ---
 ![pic9](RunningMarkdownOnieng6.png)
 - After copying the markdown-parser repo into my cs15l account, I logged into my cs15l account and complile and run MarkdownParseTest.java. 
-- The picture above shows the result after I rand MarkdownParseTest.java.
+- The picture above shows the result after I ran MarkdownParseTest.java.
 
 ---
 ![pic10](RunningInOneLine.png)
@@ -73,3 +76,6 @@ scp -r . cse15lsp22apc@ieng6.ucsd.edu:~/markdown-parser
     2. The second command is logging into my cs15l account. 
     3. The third command is compiling MarkdownParseTest.java.
     4. The fourth command is running MarkdownParseTest.java.
+
+---
+# Thank You
