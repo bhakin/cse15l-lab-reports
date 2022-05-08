@@ -78,4 +78,4 @@ scp -r . cse15lsp22apc@ieng6.ucsd.edu:~/markdown-parser
     4. The fourth command is running MarkdownParseTest.java.
 
 ---
-# Thank You
+# Thank You!
