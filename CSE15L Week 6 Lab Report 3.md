@@ -28,7 +28,7 @@ Host ieng6
 > **Group Choice 2: Setup Github Acess from ieng6**
 
 ![pic4](PublicKey.png)
-- The public key I made is stored in in the SSH and GPG keys. 
+- The public key is stored in in the SSH and GPG keys. 
 - To find the SSH and GPG keys, I clicked on my profile account on the top right.
 - Then I clicked setting. 
 - Lastly, in the left column of the setting page, I clicked on SSH and GPG keys. 
@@ -37,11 +37,11 @@ Host ieng6
 ---
 ![pic5](PrivateKey.png)
 - The priviate key is stored in a folder called .ssh on your computer. 
-- The file that the private key is stoired is called the id_rsa and if we open the that file, we would see the content of the private key. 
+- The file that the private key is stored in is called the id_rsa and if we open the that file, we would see the content of the private key. 
 
 ---
 ![pic6](Commit/PushOnieng6.png)
-- In the picture above, I logged into my cs15l account and commit and push my markdown parser repo. 
+- In the picture above, I logged into my cs15l account then I commited and push my markdown parser repo. 
 - When I was pushing my markdown-parser, it asked for my password and to get that password, I needed a token. 
 - So to get the token, I went to the Developer Setting on my github account and created one. 
 - Then I copied the token and pasted it on the part it asked for my password to my github account. 
@@ -49,7 +49,7 @@ Host ieng6
 ---
 ![pic7](LinkToNewTest.png)
 - [Link](https://github.com/bhakin/markdown-parser/commit/f7cc60a3337ccd24fd61927b713289fc7087936e) to the pictiure above.
-- This is the link that shows that commit message I made on my cs15l account. 
+- This is the link that shows the commit message I made on my cs15l account. 
 **______________________________________________________________________________________________________________**
 > **Group Choice 3: Copy whole directories with scp -r**
 
