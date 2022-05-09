@@ -54,6 +54,7 @@ scp MarkdownParse.java ieng6:~/
 - [Link](https://github.com/bhakin/markdown-parser/commit/f7cc60a3337ccd24fd61927b713289fc7087936e) to the pictiure above.
 - This is the link that shows the commit message I made on my cs15l account. 
 **___________________________________________________________________________________________________________**
+
 > **Group Choice 3: Copy whole directories with scp -r**
 
 ![pic8](CopyingWholeDirectory.png)
