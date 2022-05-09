@@ -15,13 +15,13 @@ Host ieng6
 ```
 ---
 ![pic2](LoggingInWithieng6.png)
-- After, I saved the config file, I opened the terminal and typed ```ssh ieng6``` and the result is the picture above.
+- After I saved the config file, I opened the terminal and typed ```ssh ieng6``` and the result is the picture above.
 - ieng6 is the username I chose to replace my cs15l account.
 
 ---
 ![pic3](SCPusingieng6.png)
 - Then, I copied MarkdownParse.java to the server using my new username. 
-- This is the command I used to copied MarkdownParse.java to the server
+- This command below is what I used to copied MarkdownParse.java to the server
 ```
 scp MarkdownParse.java ieng6:~/
 ```
@@ -39,15 +39,15 @@ scp MarkdownParse.java ieng6:~/
 
 ---
 ![pic5](PrivateKey.png)
-- The priviate key is stored in a folder called .ssh on your computer. 
-- The file that the private key is stored in is called the id_rsa and if we open the that file, we would see the content of the private key. 
+- The private key is stored in a folder called .ssh on my computer. 
+- The file that the private key is stored in is called the id_rsa and if we open that file, we would see the content of the private key.
 
 ---
 ![pic6](Commit/PushOnieng6.png)
-- In the picture above, I logged into my cs15l account then I commited and push my markdown parser repo. 
+- In the picture above, I logged into my cs15l account then I committed and push my markdown parser repo. 
 - When I was pushing my markdown-parser, it asked for my password and to get that password, I needed a token. 
-- So to get the token, I went to the Developer Setting on my github account and created one. 
-- Then I copied the token and pasted it on the part it asked for my password to my github account. 
+- So to get the token, I went to the Developer Setting on my Github account and created one. 
+- Then I copied the token and pasted it on the part it asked for my password to my GitHub account. 
 
 ---
 ![pic7](LinkToNewTest.png)
@@ -65,7 +65,7 @@ scp -r . cse15lsp22apc@ieng6.ucsd.edu:~/markdown-parser
 
 ---
 ![pic9](RunningMarkdownOnieng6.png)
-- After copying the markdown-parser repo into my cs15l account, I logged into my cs15l account and complile and run MarkdownParseTest.java. 
+- After copying the markdown-parser repo into my cs15l account, I logged into my cs15l account and compile and run MarkdownParseTest.java. 
 - The picture above shows the result after I ran MarkdownParseTest.java.
 
 ---
