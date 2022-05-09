@@ -32,7 +32,7 @@ scp MarkdownParse.java ieng6:~/
 
 ![pic4](PublicKey.png)
 - The public key is stored in in the SSH and GPG keys. 
-- To find the SSH and GPG keys, I clicked on my profile account on the top right.
+- To find the SSH and GPG keys, I first clicked on my profile account on the top right.
 - Then I clicked setting. 
 - Lastly, in the left column of the setting page, I clicked on SSH and GPG keys. 
 
@@ -51,7 +51,7 @@ scp MarkdownParse.java ieng6:~/
 
 ---
 ![pic7](LinkToNewTest.png)
-- [Link](https://github.com/bhakin/markdown-parser/commit/f7cc60a3337ccd24fd61927b713289fc7087936e) to the pictiure above.
+- [Link to the pictiure above. ](https://github.com/bhakin/markdown-parser/commit/f7cc60a3337ccd24fd61927b713289fc7087936e) 
 - This is the link that shows the commit message I made on my cs15l account. 
 **___________________________________________________________________________________________________________**
 
