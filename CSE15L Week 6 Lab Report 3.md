@@ -15,7 +15,7 @@ Host ieng6
 ```
 ---
 ![pic2](LoggingInWithieng6.png)
-- After, I saved the config file, I opened the terminal and typed ssh ieng6 and the result is the picture above.
+- After, I saved the config file, I opened the terminal and typed ```ssh ieng6``` and the result is the picture above.
 - ieng6 is the username I chose to replace my cs15l account.
 
 ---
