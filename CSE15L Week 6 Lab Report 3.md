@@ -66,7 +66,7 @@ scp -r . cse15lsp22apc@ieng6.ucsd.edu:~/markdown-parser
 
 ---
 ![pic9](RunningMarkdownOnieng6.png)
-- After copying the markdown-parser repo into my cs15l account, I logged into my cs15l account and compile and run MarkdownParseTest.java. 
+- After copying the markdown-parser repo into my cs15l account, I logged into my cs15l account so that I could compile and run MarkdownParseTest.java. 
 - The picture above shows the result after I ran MarkdownParseTest.java.
 
 ---
