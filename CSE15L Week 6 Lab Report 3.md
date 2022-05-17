@@ -30,7 +30,7 @@ scp MarkdownParse.java ieng6:~/
 **______________________________________________________________________________________________________________**
 > **Group Choice 2: Setup Github Acess from ieng6**
 
-![pic4](PublicKey.png)
+![pic4](PublicKey2.png)
 - The public key is stored in in the SSH and GPG keys. 
 - To find the SSH and GPG keys, I first clicked on my profile account on the top right.
 - Then I clicked setting. 
