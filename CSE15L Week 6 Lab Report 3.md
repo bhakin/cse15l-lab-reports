@@ -49,8 +49,8 @@ scp MarkdownParse.java ieng6:~/
 -  And as we can see, when I push my markdown parser, it didn't ask for my password to my Github account. 
 
 ---
-![pic7](LinkToNewUpdates.png)
-- [Link to the pictiure above. ](https://github.com/bhakin/markdown-parser/commit/0979dd96f1fda804faa3d426d0bee8df52d9ff37) 
+![pic7](LinkToUpdatesLink2.png)
+- [Link to the pictiure above. ](https://github.com/bhakin/markdown-parser/commit/5593da9ae066a6cfafc5c78675ffc772d2c27609) 
 - This is the link that shows the commit message I made on my cs15l account. 
 
 **______________________________________________________________________________________________________________**
