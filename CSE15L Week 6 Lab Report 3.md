@@ -50,7 +50,7 @@ scp MarkdownParse.java ieng6:~/
 
 ---
 ![pic7](LinkToUpdates3.png)
-- [Link to the pictiure above. ](https://github.com/bhakin/markdown-parser/commit/9d309c6bebca6f0edcc0120fec92cbbf410ca087) 
+- [Link to the picture above. ](https://github.com/bhakin/markdown-parser/commit/9d309c6bebca6f0edcc0120fec92cbbf410ca087) 
 - This is the link that shows the commit message I made on my cs15l account. 
 
 **______________________________________________________________________________________________________________**
