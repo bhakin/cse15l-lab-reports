@@ -43,14 +43,14 @@ scp MarkdownParse.java ieng6:~/
 - The file that the private key is stored in is called the id_rsa and the id_rsa.pub is for the public key. 
 
 ---
-![pic6](PushOnieng6.png)
+![pic6](PushOnieng6_2.png)
 - In the picture above, I logged into my cs15l account and then wrote the command: ``` git remote set-url origin (SSH Link)``` so that I could commit and push my changes on my cs15l account without entering the password to my Github account. 
 -  Then I committed and push my markdown parser repo. 
 -  And as we can see, when I push my markdown parser, it didn't ask for my password to my Github account. 
 
 ---
-![pic7](LinkToUpdatesLink2.png)
-- [Link to the pictiure above. ](https://github.com/bhakin/markdown-parser/commit/5593da9ae066a6cfafc5c78675ffc772d2c27609) 
+![pic7](LinkToUpdates3.png)
+- [Link to the pictiure above. ](https://github.com/bhakin/markdown-parser/commit/9d309c6bebca6f0edcc0120fec92cbbf410ca087) 
 - This is the link that shows the commit message I made on my cs15l account. 
 
 **______________________________________________________________________________________________________________**
