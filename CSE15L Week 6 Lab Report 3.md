@@ -40,7 +40,8 @@ scp MarkdownParse.java ieng6:~/
 ---
 ![pic5](PrivateKey2.png)
 - The private key is stored in a folder called .ssh on my cs15l account. 
-- The file that the private key is stored in is called the id_rsa and the id_rsa.pub is for the public key. 
+- The file that the private key is stored in is called the id_rsa.
+- The file that the public key is stored in is called the id_rsa.pub. 
 
 ---
 ![pic6](PushOnieng6_2.png)
