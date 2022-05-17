@@ -38,20 +38,19 @@ scp MarkdownParse.java ieng6:~/
 
 
 ---
-![pic5](PrivateKey.png)
-- The private key is stored in a folder called .ssh on my computer. 
-- The file that the private key is stored in is called the id_rsa and if we open that file, we would see the content of the private key.
+![pic5](PrivateKey2.png)
+- The private key is stored in a folder called .ssh on my cs15l account. 
+- The file that the private key is stored in is called the id_rsa and the id_rsa.pub is for public key. 
 
 ---
-![pic6](Commit/PushOnieng6.png)
-- In the picture above, I logged into my cs15l account then I committed and push my markdown parser repo. 
-- When I was pushing my markdown-parser, it asked for my password and to get that password, I needed a token. 
-- So to get the token, I went to the Developer Setting on my Github account and created one. 
-- Then I copied the token and pasted it on the part it asked for my password to my GitHub account. 
+![pic6](PushOnieng6.png)
+- In the picture above, I logged into my cs15l account then wrote the command: ``` git remote set-url orgin (SSH Link)``` so that I could commit and push my changes on my cs15l account without entering the password to my github account. 
+-  Then I committed and push my markdown parser repo. 
+-  And as we can see, when I push my markdown parser, it didn't ask for my password to my Github account. 
 
 ---
-![pic7](LinkToNewTest.png)
-- [Link to the pictiure above. ](https://github.com/bhakin/markdown-parser/commit/f7cc60a3337ccd24fd61927b713289fc7087936e) 
+![pic7](LinkToNewUpdates.png)
+- [Link to the pictiure above. ](https://github.com/bhakin/markdown-parser/commit/0979dd96f1fda804faa3d426d0bee8df52d9ff37) 
 - This is the link that shows the commit message I made on my cs15l account. 
 
 **______________________________________________________________________________________________________________**
