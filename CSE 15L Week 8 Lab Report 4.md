@@ -3,14 +3,14 @@
 ### By: Bhakin Phanakesiri 
 
 **_____________________________________________________________________________________________________________**
-**Repo**
+### **Repo**
 
 [My Repo](https://github.com/bhakin/markdown-parser)
 
 [The person I reviewed repo](https://github.com/Trinnnn/markdown-parser)
 
 **_____________________________________________________________________________________________________________**
-**Snippet 1**
+### **Snippet 1**
 
 ![pic1](snippet1.png)
 - Expected Output: ```[google.com, google.com, ucsd.edu]```
@@ -24,7 +24,7 @@
 
 ![output1](myoutput1.png)
 
-- My code fails the test because it was not able to detect the ucsd.edu link, but instead got url.com which is wrong. 
+- My code fails the test because it was not able to detect the ucsd.edu link, but instead it got url.com which is not a valid. 
 
 
 
@@ -38,7 +38,7 @@
 
 
 **_____________________________________________________________________________________________________________**
-**Snipper 2**
+### **Snipper 2**
 
 ![pic2](snippet2.png)
 - Expected Output: ```[a.com, a.com(()), example.com]```
@@ -51,21 +51,18 @@
 > My Ouput:
 
 ![output3](myoutput2.png)
-- My code failes 
-
-
+- My code fails the test because for the seonond link, it should be a.com(()), but instead it was only a.com((. In addition, my code was not able to detect example.com which is a valid link. 
 
 
 > The person I reviewed Output: 
 
 ![output4](Reviewed2.png)
-- Their coee fails the test because for the second link, it should be a.com(()), but instead it got a.com((.
-
+- Their code fails the test because for the second link, it should be a.com(()), but instead it was only a.com((.
 
 
 
 **_____________________________________________________________________________________________________________**
-**Snippet 3**
+### **Snippet 3**
 
 ![pic3](snippet3.png)
 - Expected Output: ```[https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule]```
@@ -78,6 +75,7 @@
 > My Output:
 
 ![output5](myoutput3.png)
+- Even though my code was able to get the correct link, but it still fails the test because it has a space in the front and in the back and this is wrong since it should not pick up any empty spaces. 
 
 
 > The person I reviewed Output: 
