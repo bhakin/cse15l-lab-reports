@@ -91,17 +91,20 @@
 
 1) Do you think there is a small (<10 lines) code change that will make your program work for snippet 1 and all related cases that use inline code with backticks? If yes, describe the code change. If not, describe why it would be a more involved change.
 
->Answer: 
+>Answer: No, I don't think there is a small code change that could make my program work for snippet 1. The reason why I think there is no small code change that could help is because checking for backticks is a new condition that I haven't look into yet. So therefore it would require more than 10 lines to check the backticks and making sure it could pick up the correct link. 
 
 2) Do you think there is a small (<10 lines) code change that will make your program work for snippet 2 and all related cases that nest parentheses, brackets, and escaped brackets? If yes, describe the code change. If not, describe why it would be a more involved change.
 
->Answer:
+>Answer: Yes, I think that there is a small code change that could make my program work for snippet 2. The small change could be making sure that the content inside the brackets is not finished until there is a open parenthesis next the close bracket. I could do these changes by creating an if statement to check if the close bracket is next to the open parentehsis. 
 
 
 3) Do you think there is a small (<10 lines) code change that will make your program work for snippet 3 and all related cases that have newlines in brackets and parentheses? If yes, describe the code change. If not, describe why it would be a more involved change.
 
->Answer:
+>Answer: Yes, I think that there is a small code change that could make my program work for snippet 3. The small change could be detecting spaces or a new line indentation. For example, I could write a if statement to see if there is a space in front of the pareenthesis. 
 
 4) If your code already works on some/all test cases, include an explanation of what were the code changes that allowed the tests to pass.
 
->Answer
+>Answer: My code did not pass any of the snippet files. 
+
+**_____________________________________________________________________________________________________________**
+# Thank You!
