@@ -24,7 +24,7 @@
 
 ![output1](myoutput1.png)
 
-- My code fails the test because it was not able to detect the ucsd.edu link, but instead, it got url.com which is not valid. 
+- My code fails the test because it was not able to detect the ucsd.edu link, but instead, it got url.com which is not a valid link. 
 
 
 
