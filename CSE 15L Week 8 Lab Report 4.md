@@ -13,7 +13,7 @@
 ### **Snippet 1**
 
 ![pic1](snippet1.png)
-- Expected Output: ```[google.com, google.com, ucsd.edu]```
+- Expected Output: ```[`google.com, google.com, ucsd.edu]```
 
 > Tester Method:
 
