@@ -26,7 +26,7 @@ I found the tests with different results by using vim diff. As you can see in th
 ![fix1](FixCode1.png)
 This is the code from my MarkdownParse. The part that is highlighted should be fixed since in this test-files, there is no close paren, so adding it to the currentIndex would not work. To fix this, I think that we should not use close paren, but instead use another variable like open or close brackets. OR the another way to fix this, is to add an if statement and see if there is an open paren and close paren or not. If there is an open paren and close paren, we know that there might be a link inside, but if there is no open paren or close paren then I should return an empty list. 
 
-
+**_____________________________________________________________________________________________________________**
 > ## Test 2
 
 #### Test-File: 495 : Link to the [test file](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/495.md) 
