@@ -49,5 +49,6 @@ I found the tests with different results by using vim diff. As you can see in th
 
 ![fix2](FixCode2.png)
 This is the code from my MarkdownParse. The part that is highlighted should be fixed. This if statement should be fixed because it only accounts for one close parenthesis. This is why my code was not able to get the last 2 close parentheses because it thought that the link was done when there is a close parenthesis. To fix this code, I can create a new condition to my if statement saying that if there is more than one close parenthesis, ignore the first one and stop on the last close parenthesis. This will hopefully make my code to be able to get the last 2 close parentheses from this test file.
+
 ---
 # Thank You!
