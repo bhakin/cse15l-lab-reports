@@ -39,7 +39,7 @@ This is the code from my MarkdownParse. The part that is highlighted should be f
 Output from my MarkdownParse and the TA's MarkdownParse: 
 ![output1](output2.png)
 - The Left Part is the output from my MarkdownParse and the Right Part is the output from the TA's MarkdownParse. 
-- Both my MarkdownParse and my TA's MarkdownParse produce the wrong output for this file. My MarkdownParse was able to get the name of the link but didn't get the 2 parentheses at the end. However, for the TA's MarkdownParse, it was not able to identify that ```foo and bar``` was a link, so it return an empty list. 
+- Both my MarkdownParse and my TA's MarkdownParse produce the wrong output for this file. My MarkdownParse was able to get the name of the link but didn't get the 2 parentheses at the end. However, for the TA's MarkdownParse, it was not able to identify that ```foo(and(bar))``` was a link, so it return an empty list. 
 
 > How did I find the tests with different results? 
 
